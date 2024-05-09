@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "audio_streamer",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "tablet"
+    ]
+  }
+}

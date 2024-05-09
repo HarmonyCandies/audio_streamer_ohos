@@ -1,0 +1,28 @@
+name: audio_streamer_ohos
+description: Streaming of Pulse-code modulation (PCM) audio from OpenHarmony
+version: 0.0.1
+homepage: https://github.com/HarmonyCandies/audio_streamer_ohos
+topic:
+  - audio
+  - streaming
+  - audio-streamer
+  - ohos
+  - harmony-os
+  - openharmony
+
+environment:
+  sdk: ">=2.19.0 <4.0.0"
+  flutter: ">=3.7.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+
+flutter:
+  plugin:
+    platforms:
+      ohos:
+        package: plugins.cachet.audio_streamer
+        pluginClass: AudioStreamerPlugin
