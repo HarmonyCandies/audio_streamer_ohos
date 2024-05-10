@@ -13,7 +13,7 @@ The OpenHarmony implementation of the [audio_streamer](https://pub.dev/packages/
 ```pubspec
 dependencies:
   audio_streamer: 4.1.1
-  audio_streamer_ohos: 0.0.1
+  audio_streamer_ohos: 0.0.2
 ```
 
 refer to [audio_streamer](https://pub.dev/packages/audio_streamer) for more details

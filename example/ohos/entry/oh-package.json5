@@ -1,11 +1,11 @@
 {
-  name: 'entry',
-  version: '1.0.0',
-  description: 'Please describe the basic information.',
-  main: '',
-  author: '',
-  license: '',
-  dependencies: {
-    audio_streamer_ohos: 'file:./har/audio_streamer_ohos.har',
-  },
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "audio_streamer_ohos": "file:../har/audio_streamer_ohos.har"
+  }
 }

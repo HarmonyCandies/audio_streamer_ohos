@@ -1,6 +1,6 @@
 {
   "module": {
-    "name": "audio_streamer",
+    "name": "audio_streamer_ohos",
     "type": "har",
     "deviceTypes": [
       "default",
